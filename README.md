@@ -1,4 +1,4 @@
-# BayesianDifferentiableProgramming
+# Bayesian differential programming for robust systems identification under uncertainty
 
 Code and data accompanying the manuscript titled "Bayesian differential programming for robust systems identification under uncertainty", authored by Y. Yang, A. Bhouri and P. Perdikaris.
 
