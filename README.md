@@ -9,3 +9,8 @@ This paper presents a machine learning framework for Bayesian systems identifica
 ### Citation
 
 TBA
+
+### Software requirement
+
+Tensorflow version 1.14.0
+Python version 3.7.3
