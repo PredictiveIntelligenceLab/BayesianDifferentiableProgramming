@@ -8,4 +8,9 @@ This paper presents a machine learning framework for Bayesian systems identifica
 
 ### Citation
 
-TBA
+    @article{yang2020bayesian,
+      title={Bayesian differential programming for robust systems identification under uncertainty},
+      author={Yang, Yibo and Bhouri, Mohamed Aziz and Perdikaris, Paris},
+      journal={arXiv preprint arXiv:2004.06843},
+      year={2020}
+    }
